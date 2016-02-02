@@ -1,0 +1,2 @@
+# KobeDad
+first repositary
